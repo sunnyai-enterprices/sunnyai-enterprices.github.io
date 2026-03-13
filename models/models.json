@@ -1,0 +1,93 @@
+[
+  {
+    "name": "CodeLlama",
+    "identifier": "code-llama",
+    "description": "An advanced AI model for coding tasks.",
+    "parameters": { "size": "7B", "specialization": "Code Generation" },
+    "link": "https://example.com/codellama"
+  },
+  {
+    "name": "DeepSeek-R1",
+    "identifier": "deepseek-r1",
+    "description": "Reinforcement learning model with real-time data processing.",
+    "parameters": { "size": "2B", "specialization": "Reinforcement Learning" },
+    "link": "https://example.com/deepseek-r1"
+  },
+  {
+    "name": "Gemma",
+    "identifier": "gemma",
+    "description": "AI model designed for efficiency in various tasks.",
+    "parameters": { "size": "3B", "specialization": "General Purpose AI" },
+    "link": "https://example.com/gemma"
+  },
+  {
+    "name": "Gemma 2",
+    "identifier": "gemma2",
+    "description": "Enhanced version of Gemma with better algorithms.",
+    "parameters": { "size": "4B", "specialization": "General Purpose AI" },
+    "link": "https://example.com/gemma2"
+  },
+  {
+    "name": "Gemma 3",
+    "identifier": "gemma3",
+    "description": "Latest iteration of the Gemma series with cutting-edge tech.",
+    "parameters": { "size": "5B", "specialization": "General Purpose AI" },
+    "link": "https://example.com/gemma3"
+  },
+  {
+    "name": "LLaMA 3.1",
+    "identifier": "llama3.1",
+    "description": "A language model optimized for dialogue response.",
+    "parameters": { "size": "13B", "specialization": "Conversational AI" },
+    "link": "https://example.com/llama3.1"
+  },
+  {
+    "name": "LLaMA 3.2",
+    "identifier": "llama3.2",
+    "description": "Improved language model with better adaptability in conversation.",
+    "parameters": { "size": "15B", "specialization": "Conversational AI" },
+    "link": "https://example.com/llama3.2"
+  },
+  {
+    "name": "Mistral",
+    "identifier": "mistral",
+    "description": "High-performance model for text generation and summarization.",
+    "parameters": { "size": "20B", "specialization": "Text Generation" },
+    "link": "https://example.com/mistral"
+  },
+  {
+    "name": "Phi 3",
+    "identifier": "phi3",
+    "description": "Cutting-edge AI model focusing on holistic understanding.",
+    "parameters": { "size": "8B", "specialization": "Holistic AI" },
+    "link": "https://example.com/phi3"
+  },
+  {
+    "name": "Phi 4 Mini",
+    "identifier": "phi4-mini",
+    "description": "A mini version of Phi 4 with specific task efficiency.",
+    "parameters": { "size": "6B", "specialization": "Task-Specific AI" },
+    "link": "https://example.com/phi4-mini"
+  },
+  {
+    "name": "Qwen 2.5",
+    "identifier": "qwen2.5",
+    "description": "Advanced model with multi-task learning capabilities.",
+    "parameters": { "size": "10B", "specialization": "Multi-Task Learning" },
+    "link": "https://example.com/qwen2.5"
+  },
+  {
+    "name": "Qwen 3",
+    "identifier": "qwen3",
+    "description": "Latest model in the Qwen series designed for various applications.",
+    "parameters": { "size": "12B", "specialization": "General Purpose AI" },
+    "link": "https://example.com/qwen3"
+  },
+  {
+    "name": "SmollM2",
+    "identifier": "smollm2",
+    "description": "Lightweight model for small applications and efficiency.",
+    "parameters": { "size": "1B", "specialization": "Lightweight AI" },
+    "link": "https://example.com/smollm2"
+  }
+]
